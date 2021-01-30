@@ -1,0 +1,24 @@
+
+  
+   {
+    "datasets":[
+      { "dataset id":1,"dataset name":"Sentiment Dataset","filepath":"CES3063F20_LabelingProject_Input-1.json","numberofuser":4},
+      { "dataset id":2,"dataset name":"Multilabel Topic Classification Dataset","filepath":"CES3063F20_LabelingProject_Input-2.json","numberofuser":3}
+      ]
+      "current dataset id":2,
+   
+       "users": [
+        {"user id":1,"user name":"RandomLabelingMechanism1","user type":"RandomBot","ConsistencyCheckProbability":0.1 },
+        {"user id":2,"user name":"RandomLabelingMechanism2","user type":"RandomBot","ConsistencyCheckProbability":0.1},
+        {"user id":3,"user name":"MachineLearningLabelingMechanism","user type":"MachineLearningBot","ConsistencyCheckProbability":0.1},
+        {"user id":4,"user name":"MachineLearningLabelingMechanism","user type":"MachineLearningBot","ConsistencyCheckProbability":0.1},
+        {"user id":5,"user name":"MachineLearningLabelingMechanism","user type":"MachineLearningBot","ConsistencyCheckProbability":0.1},
+        {"user id":6,"user name":"MachineLearningLabelingMechanism","user type":"MachineLearningBot","ConsistencyCheckProbability":0.1},
+        {"user id":7,"user name":"Berra","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+        {"user id":8,"user name":"Elif","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+        {"user id":9,"user name":"Ezgi","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+        {"user id":11,"user name":"Omer","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+	{"user id":12,"user name":"Rumeysa","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+	{"user id":13,"user name":"Sukriye","user type":"HumanUser","ConsistencyCheckProbability":0.1,"password":"1234"}
+        ]     
+}
